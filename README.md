@@ -1,5 +1,3 @@
-Sure, here's a more professional way to organize and describe the text:
-
 # Linux User and Group Management Shell Script
 
 ## Introduction
